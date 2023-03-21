@@ -9,3 +9,4 @@ Language directories: Each language directory contains subdirectories for each a
 Algorithm category directories: Each algorithm category directory contains subdirectories for each individual algorithm (e.g. "merge-sort", "binary-search", "breadth-first-search", "knapsack-problem").
 
 Algorithm directories: Each algorithm directory contains a README file with a description of the algorithm, an implementation file with the actual code, and one or more example files that demonstrate how to use the algorithm.
+[erastosthen_plus.py](/Repository-of-Algorithms/Python_algorithms/is_prime/erastosthen_plus.py)
